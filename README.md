@@ -27,9 +27,6 @@ I have a keen interest in machine learning and its applications. I'm a data anal
 <!-- GitHub Streak Card -->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ide21&theme=default)
 
-<!-- Contribution Graph -->
-[![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=side21&theme=light)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 ---
 
 ## 🌐 Connect with Me
