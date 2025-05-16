@@ -2,7 +2,7 @@
 
 ## Data Scientist · Machine Learning
 
-I have a keen interest in machine learning and its applications. I'm a data analyst, data scientist, data engineer, and programmer skilled in **Python** and **R**. Passionate about data, automation, and intelligent systems, I believe in one principle: *Work silently and you will succeed*.
+I have a keen interest in machine learning and its applications. I'm a data analyst, data scientist, data engineer, and programmer skilled in **Python** and **R**. Passionate about data, automation, and intelligent systems, I believe in one principle: *Keep work silently and you will succeed*.
 
 ---
 
