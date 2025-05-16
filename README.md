@@ -19,24 +19,16 @@ I have a keen interest in machine learning and its applications. I'm a data anal
 ## 📊 GitHub Insights
 
 <!-- GitHub Stats Card -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=salehalrougi&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ide21&show_icons=true&theme=default)
 
 <!-- Top Languages Card -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=salehalrougi&layout=compact&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ide21&layout=compact&theme=default)
 
 <!-- GitHub Streak Card -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=salehalrougi&theme=default)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ide21&theme=default)
 
 <!-- Contribution Graph -->
-[![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=salehalrougi&theme=light)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-## 🌟 Optional: Stats and Badges
-
-- 🔥 View my coding **streaks, commits, languages**, and contributions above.
-- 🧠 See my **top used programming languages** and **activity history**.
-- 📌 I regularly work on machine learning, data analysis, and automation projects using **Python** and **R**.
+[![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=side21&theme=light)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
