@@ -1,4 +1,4 @@
-# Saleh Alrougi
+# Enad Alrougi
 
 ## Data Scientist · Machine Learning
 
@@ -31,5 +31,5 @@ I have a keen interest in machine learning and its applications. I'm a data anal
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/saleh-alrougi-5b0a45253/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/enad-alrougi-5b0a45253/)  
 [![X](https://img.shields.io/badge/X-000000?logo=x&logoColor=white&style=for-the-badge)](https://x.com/id_e21)
