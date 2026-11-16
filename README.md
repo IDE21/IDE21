@@ -1,6 +1,6 @@
 <div align="center">
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg?v=en"><img alt="Enad Alrougi · AI Researcher & Data Scientist" src="assets/banner-light.svg?v=en" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg"><img alt="Enad Alrougi · AI Researcher & Data Scientist" src="assets/header-light.svg" width="100%"></picture>
 
 <a href="https://ide21.github.io"><img src="https://img.shields.io/badge/Website-ide21.github.io-1F5BA8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a> <a href="https://www.linkedin.com/in/enad-alrougi-5b0a45253/"><img src="https://img.shields.io/badge/LinkedIn-Enad_Alrougi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://orcid.org/0009-0008-2947-6623"><img src="https://img.shields.io/badge/ORCID-0009--0008--2947--6623-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"></a> <a href="https://x.com/ID_E21"><img src="https://img.shields.io/badge/X-@ID__E21-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
 
