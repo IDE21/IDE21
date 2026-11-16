@@ -14,12 +14,12 @@ I build deep learning models for **early disease detection** and make their deci
 
 <table>
 <tr>
-<td width="50%" align="center"><img src="assets/icons/paper.svg" width="64"><h2>2</h2><b>Peer-reviewed IEEE papers</b><br>Early Alzheimer's detection with deep learning and XAI</td>
-<td width="50%" align="center"><img src="assets/icons/app.svg" width="64"><h2>99.14%</h2><b>Alzheimer's detection app</b><br>Applied project, validated by neurologists</td>
+<td width="50%" align="center"><img src="assets/icons/paper.svg" width="64"><br><img src="assets/icons/stat-papers.svg" height="44" alt="2"><br><b>Peer-reviewed IEEE papers</b><br>Early Alzheimer's detection with deep learning and XAI</td>
+<td width="50%" align="center"><img src="assets/icons/app.svg" width="64"><br><img src="assets/icons/stat-accuracy.svg" height="44" alt="99.14%"><br><b>Alzheimer's detection app</b><br>Applied project, validated by neurologists</td>
 </tr>
 <tr>
-<td width="50%" align="center"><img src="assets/icons/cap.svg" width="64"><h2>3.75 / 4</h2><b>MSc Data Science</b><br>Taif University · BSc AI, University of Jeddah</td>
-<td width="50%" align="center"><img src="assets/icons/letter.svg" width="64"><h2>5</h2><b>Recommendation letters</b><br>Academic and professional</td>
+<td width="50%" align="center"><img src="assets/icons/cap.svg" width="64"><br><img src="assets/icons/stat-gpa.svg" height="44" alt="3.75 / 4"><br><b>MSc Data Science</b><br>Taif University · BSc AI, University of Jeddah</td>
+<td width="50%" align="center"><img src="assets/icons/letter.svg" width="64"><br><img src="assets/icons/stat-letters.svg" height="44" alt="5"><br><b>Recommendation letters</b><br>Academic and professional</td>
 </tr>
 </table>
 
